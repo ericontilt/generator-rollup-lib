@@ -1,6 +1,6 @@
 {
   "name": "generator-rollup-lib",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A generator which creates a testable ES6 library using rollup as a bundler.",
   "homepage": "",
   "author": {
